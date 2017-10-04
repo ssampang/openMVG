@@ -15,6 +15,7 @@
 #include "openMVG/matching/indMatchDecoratorXY.hpp"
 #include "openMVG/matching/matching_filters.hpp"
 #include "openMVG/matching/matcher_type.hpp"
+#include "openMVG/matching/nn_distance_ratio_filter.hpp"
 #include "openMVG/numeric/numeric.h"
 
 namespace openMVG {
